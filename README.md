@@ -2,7 +2,7 @@ PATCHING INSTRUCTIONS:
 
 You will need:
 - A clean Heart Gold (USA) ROM (not included)
-- xdeltaUI (included)
+- xdeltaUI (not included)
 - Glittering Gold Alpha 1.4.3.xdelta file (included)
 
 1. Open xdeltaUI
