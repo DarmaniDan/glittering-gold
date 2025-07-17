@@ -3,7 +3,7 @@
 You will need:
 - A clean Heart Gold (USA) ROM (not included)
 - xdeltaUI (not included)
-- Glittering Gold Alpha 1.4.3.xdelta file (included)
+- Glittering Gold Alpha 1.4.7 ColdFix.xdelta file (included)
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
@@ -11,7 +11,7 @@ You will need:
 
   2. Make sure you are in the "Apply Patch" tab
 
-  3. For "Patch", click Open and select the file named "Glittering Gold Alpha 1.4.3.xdelta"
+  3. For "Patch", click Open and select the file named "Glittering Gold Alpha 1.4.7 ColdFix.xdelta"
 
   4. For Source File, click Open and select your clean Heart Gold (USA) ROM
 
