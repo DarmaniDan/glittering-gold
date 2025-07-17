@@ -7,6 +7,14 @@ You will need:
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+**DOWNLOADING:**
+
+  1. Go to the ``Releases`` tab and find the latest release. Download the ``.zip`` file included there.
+     
+  2. Open the file in your file viewer of choice and extract the contents.
+
+**PATCHING:**
+
   1. Open xdeltaUI
 
   2. Make sure you are in the "Apply Patch" tab
