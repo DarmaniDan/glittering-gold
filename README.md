@@ -9,7 +9,7 @@ You will need:
 
 **DOWNLOADING:**
 
-  1. Go to the ``Releases`` tab and find the latest release. Download the ``.zip`` file included there.
+  1. Go to the ``Releases`` tab and find the latest release. Download the ``.zip`` file included there. **RELEASES** >>>>>>
      
   2. Open the file in your file viewer of choice and extract the contents.
 
